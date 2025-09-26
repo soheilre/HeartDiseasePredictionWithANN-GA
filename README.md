@@ -24,7 +24,7 @@ https://archive.ics.uci.edu/dataset/45/heart+disease
 
 2024/09/20
 
-##**-->Formulated and Coded by Soheil Shoar--<##**
+##**-->Formulated and Coded by Soheil Shoar<--##**
 
 *PhD in Transportation Planning*
 
